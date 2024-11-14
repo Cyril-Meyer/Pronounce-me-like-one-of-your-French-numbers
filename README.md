@@ -6,6 +6,7 @@ Analysis on the duration of pronunciation of numbers.
 * This is a "1 hour project" (nothing is really deeply thinked)
 * Number of syllables is calculated with an "english based" library
 * Points in graphics are not continuous, but with a fixed increment (see plot titles)
+* There is a (voluntary) little increase between language labels for better readability
 
 ### Results
 
