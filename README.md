@@ -8,6 +8,12 @@ Analysis on the duration of pronunciation of numbers.
 
 ### Usage
 
+* Install requirements
+  * `pip install matplotlib numpy`
+  * `pip install num2words`
+* Run app to generate same results
+  * `python main.py`
+
 
 ### Acknowledgement
 
